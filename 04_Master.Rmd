@@ -2,6 +2,8 @@
 title: "04_Master.Rmd"
 output: html_document
 ---
+Author: Kangjoon Cho \
+Collaborator: Mira Kelly-Fair
 ```{r}
 ## Master script for phenology analysis
 
